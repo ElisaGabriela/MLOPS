@@ -6,7 +6,7 @@ Neste diretório, temos o desenvolvimento de três Portfolio projects da platafo
 
 ## Projetos
 Serão abordados 3 projetos:
-* Build a Movie Recommendation System in Python
+* Build a Movie Recommendation System in Python: Neste projeto, iremos construir um sistema interativo de recomendação de filmes que permite que você digite o nome de um filme e imediatamente obtenha dez recomendações de outros filmes que você pode querer assistir. 
 * Build an Airflow Data Pipeline to Download Podcasts
 * Predicting The Weather Using Machine Learning
 
