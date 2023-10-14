@@ -18,5 +18,5 @@ Serão abordados 3 projetos:
 * Predicting The Weather Using Machine Learning
 
 ## Referências
-Todos
+Todos os códigos utilizados podem ser encontrados nos Portfolio projects da plataforma [Dataquest](https://app.dataquest.io/).
 
