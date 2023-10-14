@@ -1,8 +1,11 @@
 # Projeto MLOPS unidade 1
 
 **Disciplina:** DCA0305 - Projeto de sistemas baseados em aprendizado de máquina
+<br>
 **Docente:** Ivanovitch Madeiros Dantas da Silva
+<br>
 **Discente:** Elisa Gabriela Machado de Lucena
+<br>
 **Instituição:** UFRN - Universidade Federal do Rio Grande do Norte
 
 ## Introdução
