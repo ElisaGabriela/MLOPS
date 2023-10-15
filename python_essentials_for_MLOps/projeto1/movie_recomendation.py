@@ -1,6 +1,6 @@
 """
-Main file of Movie Recomendation System
-Author: Elisa Gabriela Machado de Lucena
+Movie Recomendation System
+Editado por: Elisa Gabriela Machado de Lucena
 """
 # importando as biliotecas utilizadas
 import logging
