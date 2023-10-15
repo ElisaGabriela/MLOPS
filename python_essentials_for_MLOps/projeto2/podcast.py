@@ -1,6 +1,6 @@
 """
-Main file of Movie Recommendation System
-Author: Elisa Gabriela Machado de Lucena
+Build an Airflow Data Pipeline to Download Podcasts
+Editado por: Elisa Gabriela Machado de Lucena
 """
 # Importações de bibliotecas necessárias
 import logging
