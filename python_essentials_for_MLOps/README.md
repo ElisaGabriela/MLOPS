@@ -7,8 +7,8 @@ Neste diretório, temos o desenvolvimento de três Portfolio projects da platafo
 ## Projetos
 Serão abordados 3 projetos:
 * Build a Movie Recommendation System in Python: Neste projeto, iremos construir um sistema interativo de recomendação de filmes que permite que você digite o nome de um filme e imediatamente obtenha dez recomendações de outros filmes que você pode querer assistir. 
-* Build an Airflow Data Pipeline to Download Podcasts
-* Predicting The Weather Using Machine Learning
+* Build an Airflow Data Pipeline to Download Podcasts: Neste projeto, iremos construir um pipeline de dados com quatro etapas usando o Airflow, que é uma ferramenta popular de engenharia de dados baseada em Python para definir e executar pipelines de dados muito poderosos e flexíveis. O pipeline irá baixar episódios de podcast. Armazenaremos nossos resultados em um banco de dados SQLite que pode ser facilmente consultado.
+* Analyzing COVID RNA Sequences in Python: Neste projeto, vamos baixar e analisar os dados das sequências de RNA do COVID em duas de suas principais variantes: Delta e Ômicron. O RNA é um ácido nucleico presente em todas as células vivas e é composto por uma única fita que consiste em várias combinações de quatro nucleotídeos: uracila, citosina, adenina e guanina. O RNA é o "código-fonte" do COVID que permite ao vírus entrar na célula e se replicar.
 
 ## Video explicativo
 
