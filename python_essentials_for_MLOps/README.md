@@ -10,6 +10,12 @@ Serão abordados 3 projetos:
 * Build an Airflow Data Pipeline to Download Podcasts: Neste projeto, iremos construir um pipeline de dados com quatro etapas usando o Airflow, que é uma ferramenta popular de engenharia de dados baseada em Python para definir e executar pipelines de dados muito poderosos e flexíveis. O pipeline irá baixar episódios de podcast. Armazenaremos nossos resultados em um banco de dados SQLite que pode ser facilmente consultado.
 * Analyzing COVID RNA Sequences in Python: Neste projeto, vamos baixar e analisar os dados das sequências de RNA do COVID em duas de suas principais variantes: Delta e Ômicron. O RNA é um ácido nucleico presente em todas as células vivas e é composto por uma única fita que consiste em várias combinações de quatro nucleotídeos: uracila, citosina, adenina e guanina. O RNA é o "código-fonte" do COVID que permite ao vírus entrar na célula e se replicar.
 
+## Linting
+O Pylint é uma ferramenta de análise estática de código para Python. Ele é projetado para identificar problemas no código Python e aplicar padrões de código, ajudando os desenvolvedores a escrever código mais limpo, legível e de alta qualidade. Para o desenvolvimento dos 3 projetos, foi exigido uma avaliação de no mínimo 9/10 do pylint. Sendo assim, ao final das modificações, refatorações e documentação, os projetos atingiram as seguintes pontuações:
+* Projeto 1: 9.15
+* Projeto 2: 9.44
+* Projeto 3: 9.14
+
 ## Video explicativo
 
 ## Cerficado Dataquest
