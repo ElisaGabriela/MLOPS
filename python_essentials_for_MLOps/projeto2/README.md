@@ -1,3 +1,6 @@
+# Pipeline de Dados com o Airflow para Baixar Podcasts
+Neste projeto, iremos construir um pipeline de dados com quatro etapas usando o Airflow, que é uma ferramenta popular de engenharia de dados baseada em Python para definir e executar pipelines de dados muito poderosos e flexíveis. O pipeline irá baixar episódios de podcast. Armazenaremos nossos resultados em um banco de dados SQLite que pode ser facilmente consultado. 
+
 ## Bibliotecas Necessárias:
 - os: Para operações relacionadas a arquivos e pastas.
 - json: Para trabalhar com JSON.
