@@ -17,6 +17,7 @@ O Pylint é uma ferramenta de análise estática de código para Python. Ele é 
 * Projeto 3: 9.14
 
 ## Video explicativo
+O video explicativo dos projetos pode ser visualizado aqui: https://www.loom.com/share/c7573466da2748f3b53da3314d12eb4e?sid=5bcfe66d-8842-4e55-8952-2b1962e14255
 
 ## Cerficado Dataquest
 Para melhor desenvolvimento do projeto, foi necessário a realização de um curso do próprio dataquest. O certificado pode ser verificado neste link: https://app.dataquest.io/verify_cert/15QZQ6F0JYLUFHCEDO45/ 
